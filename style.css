@@ -5,6 +5,8 @@ header {
 	background-color: #dee2e6;
 	color: black;
 	padding-bottom: 10px;
+  background-image: url(images/banner_background.jpg);
+  background-size: cover;
 }
 
 section {
